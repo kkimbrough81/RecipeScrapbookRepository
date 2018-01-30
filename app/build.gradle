@@ -22,6 +22,9 @@ android {
             minSdkVersion 19
         }
     }
+    lintOptions{
+        abortOnError false
+    }
 }
 
 dependencies {
