@@ -3,4 +3,5 @@
     <string name="main_page_title">Recipe ScrapBook</string>
     <string name="view_recipe">View Recipes</string>
     <string name="capture_recipe">Capture Recipe</string>
+    <string name="mainLogo">logo</string>
 </resources>
